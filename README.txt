@@ -1,0 +1,1 @@
+Відкрийте index.html через GitHub Pages або вебсервер. HTML, CSS, JavaScript окремі; зображення в images/. Python виконується через Pyodide CDN (потрібен інтернет і дозвіл CSP). PDF українською: системний друк → Зберегти як PDF. Moodle може блокувати script, iframe, CDN, popups та localStorage. Не запускати недовірений код без належної ізоляції.
